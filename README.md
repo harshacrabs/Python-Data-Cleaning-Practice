@@ -6,21 +6,21 @@ Cleaning data is a crucial step in any data analysis workflow, as unclean data c
 
 🎯 Key Learning Objectives
 
-✔ Read & Analyze Data from multiple sources 📊
-✔ Summarize Data Attributes at the dataframe, column, and row levels 🔍
-✔ Filter & Select Columns based on specific conditions 🎛
-✔ Handle Messy Data (missing values, duplicates, outliers, and invalid dates) 🚀
-✔ Use Method Chaining for efficient data transformation ⚡
-✔ Visualize Data Issues using Matplotlib, Seaborn, and Bokeh 📈
-✔ Automate Data Cleaning with custom Python functions and classes 🔄
+	✔ Read & Analyze Data from multiple sources 📊
+	✔ Summarize Data Attributes at the dataframe, column, and row levels 🔍
+	✔ Filter & Select Columns based on specific conditions 🎛
+	✔ Handle Messy Data (missing values, duplicates, outliers, and invalid dates) 🚀
+	✔ Use Method Chaining for efficient data transformation ⚡
+	✔ Visualize Data Issues using Matplotlib, Seaborn, and Bokeh 📈
+	✔ Automate Data Cleaning with custom Python functions and classes 🔄
 
 
 🛠 Tools & Libraries Used
-	•	Python 🐍
-	•	pandas for data manipulation 📊
-	•	NumPy for numerical operations 🔢
-	•	Matplotlib & Seaborn for data visualization 🎨
-	•	Bokeh for interactive data exploration 📌
+	•Python 🐍
+	•pandas for data manipulation 📊
+	•NumPy for numerical operations 🔢
+	•Matplotlib & Seaborn for data visualization 🎨
+	•Bokeh for interactive data exploration 📌
 
 
  🔗 Project Resources
