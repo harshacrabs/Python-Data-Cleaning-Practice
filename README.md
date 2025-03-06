@@ -16,11 +16,12 @@ Cleaning data is a crucial step in any data analysis workflow, as unclean data c
 
 
 🛠 Tools & Libraries Used
-	• Python 🐍
-	• pandas for data manipulation 📊
-	• NumPy for numerical operations 🔢
-	• Matplotlib & Seaborn for data visualization 🎨
-	• Bokeh for interactive data exploration 📌
+
+	✔ Python 🐍
+	✔ pandas for data manipulation 📊
+ 	✔ NumPy for numerical operations 🔢
+	✔ Matplotlib & Seaborn for data visualization 🎨
+ 	✔ Bokeh for interactive data exploration 📌
 
 
  🔗 Project Resources
